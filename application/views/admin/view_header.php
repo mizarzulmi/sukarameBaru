@@ -80,7 +80,7 @@
 		<header class="main-header">
 
 			<a href="<?php echo base_url(); ?>admin/dashboard" class="logo">
-				<span class="logo-lg">Multix</span>
+				<span class="logo-lg">Sukarame Baru</span>
 			</a>
 
 			<nav class="navbar navbar-static-top">
