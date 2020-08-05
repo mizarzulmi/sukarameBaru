@@ -447,13 +447,15 @@ $success_message = '';
                                 <ul>
                                     <li><a href="<?php echo base_url(); ?>event"><?php echo EVENT; ?></a></li>
                                     <li><a href="<?php echo base_url(); ?>photo-gallery"><?php echo PHOTO_GALLERY; ?></a></li>
-                                    <li><a href="<?php echo base_url(); ?>testimonial"><?php echo TESTIMONIAL; ?></a></li>
+                                    <!-- <li><a href="<?php echo base_url(); ?>testimonial"><?php echo TESTIMONIAL; ?></a></li> -->
                                     <li><a href="<?php echo base_url(); ?>faq"><?php echo FAQ; ?></a></li>
-                                    <li><a href="<?php echo base_url(); ?>pricing"><?php echo PRICING_TABLE; ?></a></li>
+                                    <!-- <li><a href="<?php echo base_url(); ?>pricing"><?php echo PRICING_TABLE; ?></a></li> -->
                                 </ul>
                             </li>
                             <li><a href="<?php echo base_url(); ?>service"><?php echo SERVICE; ?></a></li>
-                            <li><a href="<?php echo base_url(); ?>portfolio"><?php echo PORTFOLIO; ?></a></li>
+                            
+                            <!-- <li><a href="<?php echo base_url(); ?>portfolio"><?php echo PORTFOLIO; ?></a></li> -->
+                            
                             <li><a href="<?php echo base_url(); ?>news"><?php echo NEWS; ?></a></li>
                             <li><a href="<?php echo base_url(); ?>contact"><?php echo CONTACT; ?></a></li>
                         </ul>
